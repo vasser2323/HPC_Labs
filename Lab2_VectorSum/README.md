@@ -1,4 +1,4 @@
-# Vas_Vector_Sum
+![image](https://github.com/vasser2323/HPC_Labs/assets/73202398/e3228b63-be7e-435a-9b8d-8d7162558f8d)# Vas_Vector_Sum
 
 Задание: реализовать алгоритм сложения элементов вектора 
 Входные данные: Вектор размером 1000 - 1000000 значений 
@@ -12,15 +12,13 @@
 
   Получившиеся значения:
 
+![image](https://github.com/vasser2323/HPC_Labs/assets/73202398/edeee0ff-d9a1-405a-8902-deae90ff281a)
 
-![image](https://github.com/vasser2323/Vas_Vector_Sum/assets/73202398/8f155287-c9b2-4292-a2bd-98363411d47f)
-
-  
   Приведены 2 графика Ускорения и времени сложения значений на CPU и GPU 
   
-  ![image](https://github.com/vasser2323/Vas_Vector_Sum/assets/73202398/612b0485-0a85-4a82-8667-39e32c1d4660)
+![image](https://github.com/vasser2323/HPC_Labs/assets/73202398/41896ff2-de00-4355-83f6-af485e380198)
 
-  ![image](https://github.com/vasser2323/Vas_Vector_Sum/assets/73202398/fd7f6d0b-fe99-4dd6-9a2c-b838a9918921)
+![image](https://github.com/vasser2323/HPC_Labs/assets/73202398/0c811852-5898-4995-a2cd-bfd0ce1444b1)
 
   Вывод:
     Меньшее количество вычислений происходит быстрее на CPU, до 50 млн значений, CPU выдавал лучшую скорость, но после GPU стала вычислять быстрее. Параллельное выполнение операции сложения элементов вектора на GPU с использованием CUDA позволяет использовать мощности параллельной обработки GPU для ускорения вычислений в сравнении с последовательным выполнением на CPU.
