@@ -4,28 +4,27 @@
 
 Изображение размером 128 x 35 
 
-![test(128x85)_blured](https://github.com/vasser2323/Salt_and_Paper/assets/73202398/da993b12-5f91-4ddf-ba17-5344ec6553a0)
+![test(128x85)_blured](https://github.com/vasser2323/HPC_Labs/assets/73202398/4b6eaf3d-261e-48e4-bdf2-03814106a509)
 
 Изображение размером 256 x 171
 
-![test(256x171)_blured](https://github.com/vasser2323/Salt_and_Paper/assets/73202398/10b3a639-42cb-4fdc-bd5f-6614f41c891f)
+![test(256x171)_blured](https://github.com/vasser2323/HPC_Labs/assets/73202398/352ffd98-158b-45e0-9c03-0ebc670c2a8f)
 
 Изображение размером 512 x 341
 
-![test(512x341)_blured](https://github.com/vasser2323/Salt_and_Paper/assets/73202398/851b5234-66d4-4467-9137-3f6be5df0c22)
+![test(512x341)_blured](https://github.com/vasser2323/HPC_Labs/assets/73202398/4c7d2648-bac4-4590-8c3f-783a5d612bcc)
 
 Изображение размером 1024 x 683 
 
-![test(1024x683)_blured](https://github.com/vasser2323/Salt_and_Paper/assets/73202398/fa8e9184-ce20-4d2a-9206-bf5354b8ef59)
+![test(1024x683)_blured](https://github.com/vasser2323/HPC_Labs/assets/73202398/110daec8-d8e9-4f12-bb82-079260af682d)
 
 График сравнения скоростей
 
-![image](https://github.com/vasser2323/Salt_and_Paper/assets/73202398/d462d289-da3a-4558-8cc0-f0ca58489218)
+![image](https://github.com/vasser2323/HPC_Labs/assets/73202398/9ddc3bb1-5c8e-4d8f-967a-bd183f8f144b)
 
 График ускорения
 
-![image](https://github.com/vasser2323/Salt_and_Paper/assets/73202398/aaf9b1e4-5af6-477f-92b7-d27033b2452b)
-
+![image](https://github.com/vasser2323/HPC_Labs/assets/73202398/0311faf8-6603-448a-aa42-97daf2b0984e)
 
 Вывод: 
 
