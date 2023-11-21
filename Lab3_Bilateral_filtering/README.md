@@ -6,25 +6,27 @@
 
 Изображение размером 128 x 128
 
-![test(128x128)_1](https://github.com/vasser2323/Bilateral-filtering/assets/73202398/70cbd047-7f0c-46c3-95db-6cc759f78339)
+![test(128x128)_1](https://github.com/vasser2323/HPC_Labs/assets/73202398/a9a5c4de-b833-483e-9c52-0d0941124374)
+
 
 Изобажение размером 256 x 256
 
-![test(256x256)_1](https://github.com/vasser2323/Bilateral-filtering/assets/73202398/f87bb72e-89c0-42a6-9e45-5198c5ed75b7)
+![test(256x256)_1](https://github.com/vasser2323/HPC_Labs/assets/73202398/29d68ee9-7672-4fd0-b05b-2b1f7dd64658)
+
 
 Изображение размером 512 x 512
 
-![test(512x512)_1](https://github.com/vasser2323/Bilateral-filtering/assets/73202398/f685d150-96ec-4575-a8cc-8c8dbf25cd51)
+![test(512x512)_1](https://github.com/vasser2323/HPC_Labs/assets/73202398/8bacf739-a98b-447d-a45c-8541623f5471)
+
 
 Изображение размером 1024 x 1024
 
-![test(1024x1024)_1](https://github.com/vasser2323/Bilateral-filtering/assets/73202398/da2fbbbd-31e5-4791-9108-00039abcd05f)
+![test(1024x1024)_1](https://github.com/vasser2323/HPC_Labs/assets/73202398/a72081bf-2554-455b-b9cf-60613e0720a6)
 
 
 График сравнения скоростей вычисления на CPU и GPU
 
-![image](https://github.com/vasser2323/Bilateral-filtering/assets/73202398/e334bb9a-9717-4588-8511-91cf61c02af4)
-
+![image](https://github.com/vasser2323/HPC_Labs/assets/73202398/d7f31d6f-cb40-445c-9d2d-f08e0e3de6e3)
 
 Вывод: 
 
