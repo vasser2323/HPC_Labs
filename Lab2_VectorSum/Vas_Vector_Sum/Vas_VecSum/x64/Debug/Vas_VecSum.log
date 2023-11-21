@@ -1,0 +1,7 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_Vector_Sum\Vas_VecSum>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "F:\Visual_Studio\Communnity\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include"  -G   --keep-dir x64\Debug  -maxrregcount=0   --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdx64\Debug\vc143.pdb" -o "C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_Vector_Sum\Vas_VecSum\x64\Debug\kernel.cu.obj" "C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_Vector_Sum\Vas_VecSum\kernel.cu" 
+  kernel.cu
+  tmpxft_00004c0c_00000000-7_kernel.cudafe1.cpp
+C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_Vector_Sum\Vas_VecSum\kernel.cu(72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Vas_VecSum.vcxproj -> C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_Vector_Sum\Vas_VecSum\x64\Debug\Vas_VecSum.exe
