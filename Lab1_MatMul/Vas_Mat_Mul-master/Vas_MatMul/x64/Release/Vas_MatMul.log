@@ -1,0 +1,20 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_MatMul>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "F:\Visual_Studio\Communnity\VC\Tools\MSVC\14.37.32822\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include"     --keep-dir x64\Release  -maxrregcount=0   --machine 64 --compile -cudart static    -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /FS   /MD " -Xcompiler "/Fdx64\Release\vc143.pdb" -o "C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_MatMul\x64\Release\kernel.cu.obj" "C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_MatMul\kernel.cu" 
+C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_MatMul\kernel.cu(92): warning #550-D: variable "is_equal" was set but never used
+        bool is_equal = true;
+             ^
+  
+  Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+  
+  kernel.cu
+  tmpxft_00007924_00000000-7_kernel.cudafe1.cpp
+C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_MatMul\kernel.cu(35): warning C4244: аргумент: преобразование "_Rep" в "unsigned int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+     Создается библиотека C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_MatMul\x64\Release\Vas_MatMul.lib и объект C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_MatMul\x64\Release\Vas_MatMul.exp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  LINK : указан параметр /LTCG, но не требуется создание кода; удалите /LTCG из командной строки компоновки для повышения производительности компоновщика
+  Vas_MatMul.vcxproj -> C:\Users\Vasser232\Desktop\Homework(magistr)\High-performance computing\Labs\Vas_MatMul\x64\Release\Vas_MatMul.exe
